@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         deleteDB("SIT_UP");
         insertDB("SIT_UP", 11);
         searchDB("SIT_UP");
-
+//
     }
 
     //삽입
